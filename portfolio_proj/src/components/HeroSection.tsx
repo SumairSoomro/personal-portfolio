@@ -1,5 +1,5 @@
 import { profile } from '../data/portfolio';
-import headshot from '../assets/sumair_soomro.jpg';
+import headshot from '../assets/sumair_soomro.png';
 
 export default function HeroSection() {
   return (
